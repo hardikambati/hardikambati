@@ -20,7 +20,7 @@
 <br />
 <br />
 
-## Projects that I've buily so far : 
+## Projects that I've built so far : 
 ### As a team:
 
 [bookmytool](https://bookmytool.com/)
