@@ -30,7 +30,7 @@
 
 <br />
 
-#### Reach out to me - [hardikambati69@gmail.com](https://www.google.com)
+#### Reach out to me - [hardikambati69@gmail.com]((mailto:hardikambati69@gmail.com?subject=[GitHub]%20Source%20Han%20Sans))
 
 
 
