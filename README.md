@@ -20,10 +20,14 @@
 <br />
 <br />
 
-### Connect with me:
+## Want to collaborate ?
+<br />
+## Drop a Mail - <img align="left" alt="twitter | Twitter" width="22px" src="https://images.news18.com/ibnlive/uploads/2019/01/gmail-1.jpg" /> 
 
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+## Connect with me:
+
+<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 
 
