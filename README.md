@@ -1,8 +1,8 @@
-### Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## Myself Hardik, a Software Developer!
 
-## Languages and Tools:
+## Languages I'm good at:
 <br />
 
 <img align="left" alt="Django" width="110px" src="https://camo.githubusercontent.com/eaf2f432c8f4fd862743cc19882885f6f13cfd06c53f061d175f473be0f58db0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f646a616e676f2e706e67" />
