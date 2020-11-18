@@ -20,7 +20,7 @@
 <br />
 <br />
 
-### Reach out to me - [I'm an inline-style link](https://www.google.com)
+### Reach out to me - [hardikambati69@gmail.com](https://www.google.com)
 
 ### Connect with me:
 
