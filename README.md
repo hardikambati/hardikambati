@@ -20,7 +20,7 @@
 <br />
 <br />
 
-### Want to collaborate? Mail Me! [I'm an inline-style link](https://www.google.com)
+### Reach out to me - [I'm an inline-style link](https://www.google.com)
 
 ## Connect with me:
 
