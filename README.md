@@ -20,15 +20,14 @@
 <br />
 <br />
 
-## Projects that I've made so far : 
+## Projects that I've buily so far : 
 ### As a team:
 
-[bookmytool](https://www.google.com)
+[bookmytool](https://bookmytool.com/)
 
 ### As an Individual:
-[srtravels](https://www.google.com)
+[srtravels](http://srtravelsbarshi.com/)
 
-<br />
 
 #### Reach out to me - [hardikambati69@gmail.com](https://www.google.com)
 
