@@ -28,7 +28,10 @@
 ### As an Individual:
 [srtravels](https://www.google.com)
 
-### Reach out to me - [hardikambati69@gmail.com](https://www.google.com)
+<br />
+<br />
+
+#### Reach out to me - [hardikambati69@gmail.com](https://www.google.com)
 
 
 
