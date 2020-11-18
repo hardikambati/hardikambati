@@ -23,10 +23,10 @@
 ## Projects that I've built so far : 
 ### As a team:
 
-[bookmytool](https://bookmytool.com/)
+### [bookmytool](https://bookmytool.com/)
 
 ### As an Individual:
-[srtravels](http://srtravelsbarshi.com/)
+### [srtravels](http://srtravelsbarshi.com/)
 
 <br />
 
