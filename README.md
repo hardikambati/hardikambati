@@ -27,7 +27,7 @@
 
 ### As an Individual:
 ### [srtravels](http://srtravelsbarshi.com/)
-### [my-porfolio](https://my-portfolio-p.herokuapp.com/)
+### [my-porfolio](https://hardik-portfolio.herokuapp.com/)
 
 <br />
 
