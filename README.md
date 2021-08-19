@@ -43,13 +43,13 @@
 <br />
 
 ## 🕐 What I do in my free time : 
-> Keep an eye on stock market 📈
+> Keep an eye on stock market
  
-> Play guitar 🎸
+> Play guitar
 
-> Travel 🚗
+> Travel
 
-> Watch Rick & Morty / Family Guy ❤
+> Watch Rick & Morty / Family Guy
 
 <br />
 
