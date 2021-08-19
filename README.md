@@ -23,10 +23,12 @@
 ### *As a team*:
 
 >[Bookmytool](https://bookmytool.com/) 🔧	
+
 >[ShefHat](https://www.shefhat.com/lang/en/) 🍜
 
 ### *As an Individual*:
 > [SRTravels](http://srtravelsbarshi.com/) ✈	
+
 > [Eseva Portal](http://esevaportal.co.in/) 💳
 
 <br />
