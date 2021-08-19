@@ -1,6 +1,6 @@
 # Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm Hardik, a Web Developer & a Freelancer
+## I'm Hardik, a Web Developer & a Freelancer 🖥
 
 ## I have a good experience working with:
 
