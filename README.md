@@ -42,6 +42,17 @@
 
 <br />
 
+## 🕐 What I do in my free time : 
+> Keep an eye on stock market
+ 
+> Play guitar
+
+> Travel
+
+> Watch Rick & Morty / Family Guy 
+
+<br />
+
 ## 👤 Checkout my Portfolio : 
 	https://hardik-ambati.vercel.app/
 
