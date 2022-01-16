@@ -1,6 +1,6 @@
 # Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<a href="https://www.animatedimages.org/cat-computer-smileys-and-smilies-318.htm"><img src="https://www.animatedimages.org/data/media/318/animated-computer-smiley-image-0040.gif" border="0" alt="animated-computer-smiley-image-0040" /></a>
+<a href="https://www.animatedimages.org/cat-computer-smileys-and-smilies-318.htm"><img src="https://www.animatedimages.org/data/media/318/animated-computer-smiley-image-0044.gif" border="0" alt="animated-computer-smiley-image-0044" /></a>
 
 ## I'm Hardik, a Web Developer & a Freelancer 🖥
 
