@@ -6,6 +6,8 @@ elevate system efficiency. A proactive collaborator, who actively engages with c
 significantly to product development and enhancement. Dedicated to fostering teamwork, building meaningful
 relationships, and ensuring the effective execution of projects throughout the entire development lifecycle.
 
+<br/>
+
 ## 🔧 Skills
 
 - Django REST Framework / Flask
@@ -21,6 +23,8 @@ relationships, and ensuring the effective execution of projects throughout the e
     - RabbitMQ
     - Redis
 
+<br/>
+
 ## 🌱 I’m currently learning
 
 - Advance Python
@@ -28,9 +32,13 @@ relationships, and ensuring the effective execution of projects throughout the e
 - Honing skills in Kubernetes
 - System Design & Architecture
 
+<br/>
+
 ## 🚀 My Tech Blogs
 
 > [https://hardik-tech-blogs.netlify.app/](https://hardik-tech-blogs.netlify.app/)
+
+<br/>
 
 ## 📫 Reach out to Me anytime
 
@@ -40,6 +48,8 @@ I never say no to a cup of Coffee, or discussions regarding software products an
 
 - [Mail](mailto:hardikambati99@gmail.com)
 - [LinkedIn](www.linkedin.com/in/hardik-ambati)
+
+<br/>
 
 ## 💬 Quote that I live up to
 
