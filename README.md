@@ -47,7 +47,7 @@ Feel free to reach out for collaborations, discussions, or just to say hello!
 I never say no to a cup of Coffee, or discussions regarding software products and finance.
 
 - [Mail](mailto:hardikambati99@gmail.com)
-- [LinkedIn](www.linkedin.com/in/hardik-ambati)
+- [LinkedIn](https://www.linkedin.com/in/hardik-ambati)
 
 <br/>
 
