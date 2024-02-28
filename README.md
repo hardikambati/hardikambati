@@ -64,5 +64,5 @@ I never say no to a cup of Coffee, or discussions regarding software products an
 <br/>
 
 <div align="center">
-<img src="./calm_under_pressure.jpg" width="400px">
+<img src="./calm_under_pressure.jpg" width="200">
 </div>
