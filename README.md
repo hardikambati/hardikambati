@@ -1,10 +1,15 @@
 # Hola, I'm Hardik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 A result-oriented software professional having 1+ years of experience, with a proven track record in architecting robust
-systems. Specialized in implementing advanced architectural practices and seamlessly integrating microservices to
-elevate system efficiency. A proactive collaborator, who actively engages with cross-functional teams, contributing
-significantly to product development and enhancement. Dedicated to fostering teamwork, building meaningful
-relationships, and ensuring the effective execution of projects throughout the entire development lifecycle.
+systems. 
+</br>
+Specialized in implementing advanced architectural practices and seamlessly integrating microservices to
+elevate system efficiency.
+</br>
+A proactive collaborator, who actively engages with cross-functional teams, contributing
+significantly to product development and enhancement. 
+</br>
+Dedicated to fostering teamwork, building meaningful relationships, and ensuring the effective execution of projects throughout the entire development lifecycle.
 
 <br/>
 
