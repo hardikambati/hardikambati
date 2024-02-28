@@ -8,6 +8,12 @@ relationships, and ensuring the effective execution of projects throughout the e
 
 <br/>
 
+<div align="center">
+    <img src="./linux.png" width="200px">
+</div>
+
+<br/>
+
 ## 🔧 Skills
 
 - Django REST Framework / Flask
@@ -19,6 +25,7 @@ relationships, and ensuring the effective execution of projects throughout the e
 - MongoDB
 - C++
 - Bash Scripting
+- Linux OS
 - Third Party Services
     - RabbitMQ
     - Redis
@@ -28,6 +35,7 @@ relationships, and ensuring the effective execution of projects throughout the e
 ## 🌱 I’m currently learning
 
 - Advance Python
+- Advance Linux
 - Websocket Programming
 - Honing skills in Kubernetes
 - System Design & Architecture
